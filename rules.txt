@@ -1,0 +1,2 @@
+Nama Tabel : mobil
+Nama database : mobil
